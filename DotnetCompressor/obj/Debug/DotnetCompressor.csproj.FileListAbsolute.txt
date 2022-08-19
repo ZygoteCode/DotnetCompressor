@@ -1,8 +1,0 @@
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\bin\Debug\DotnetCompressor.exe.config
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\bin\Debug\DotnetCompressor.exe
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\bin\Debug\DotnetCompressor.pdb
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\obj\Debug\DotnetCompressor.csproj.AssemblyReference.cache
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\obj\Debug\DotnetCompressor.csproj.SuggestedBindingRedirects.cache
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\obj\Debug\DotnetCompressor.csproj.CoreCompileInputs.cache
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\obj\Debug\DotnetCompressor.exe
-C:\Users\gabry\Desktop\DotnetCompressor\DotnetCompressor\obj\Debug\DotnetCompressor.pdb

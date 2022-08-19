@@ -1,8 +1,0 @@
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\bin\Release\Stub.exe.config
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\bin\Release\Stub.exe
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\bin\Release\Stub.pdb
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Release\Stub.csproj.AssemblyReference.cache
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Release\Stub.csproj.SuggestedBindingRedirects.cache
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Release\Stub.csproj.CoreCompileInputs.cache
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Release\Stub.exe
-C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Release\Stub.pdb
