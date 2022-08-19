@@ -1,0 +1,8 @@
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\bin\Debug\Stub.exe.config
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\bin\Debug\Stub.exe
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\bin\Debug\Stub.pdb
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Debug\Stub.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Debug\Stub.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Debug\Stub.exe
+C:\Users\gabry\Desktop\DotnetCompressor\Stub\obj\Debug\Stub.pdb
